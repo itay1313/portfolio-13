@@ -21,10 +21,6 @@ body {
   color: var(--colorTextBody);
   width: 100vw;
   overflow-x: hidden;
-
-  &:focus {
-    outline: none;
-  }
 }
 
 :where(code, pre) {

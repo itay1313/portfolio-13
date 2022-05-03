@@ -1,4 +1,4 @@
-service: hamish-portfolio
+service: Itay-portfolio
 
 provider:
   name: aws
